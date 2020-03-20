@@ -1,3 +1,3 @@
 # WhadYaKnowApp
 
-What'Ya Know? Is a simple quick quiz app I created using HTML, CSS, and JavaScript.
+Whad'Ya Know? Is a simple quick quiz app I created using HTML, CSS, and JavaScript.
